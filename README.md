@@ -4,14 +4,6 @@ This repository contains multiple data structure implementations in **pure Java*
 
 ---
 
-## Table of Contents
-
-- [Queue (FIFO)](#queue-fifo)
-- [Single Linked List (SLL)](#single-linked-list-sll)
-- [Doubly Linked List (DLL)](#doubly-linked-list-dll)
-
----
-
 ## Queue (FIFO)
 
 **Description:**  
